@@ -1,0 +1,9 @@
+# Python venv
+smart-cli-tasks/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
