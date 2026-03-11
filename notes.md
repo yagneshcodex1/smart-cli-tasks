@@ -10,13 +10,13 @@ For that
 
    for activating # source smart-cli- / bin/activate
 
-1. Task : Add Task
+2. Task : Add Task
    --> To Add task we need to get input in CLI , for that we need to import Argpase which it script for cli in python ,
 
    ARGPARSE :
    Python argparse is a command-line parsing module that is recommended to work with the command line argument.
 
-1. Task : List all tasks
+3. Task : List all tasks
    listing all tasks we need to make a list those in argpase so
    add all tasks in Memory so it will be JSON SO we wil be using FILES withopen for that so
    we can add list to files .
